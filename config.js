@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Docs',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://docs.google.com',
 		},
 		{
 			id: '4',
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://odysee.com/',
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Aceship',
+					link: 'https://aceship.github.io/AN-EN-Tags/akhrchars.html',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'PRTS',
+					link: 'https://prts.wiki/w/%E9%A6%96%E9%A1%B5',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Monkeytype',
+					link: 'https://monkeytype.com/',
 				},
 			],
 		},
