@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Classroom',
-					link: 'https://classroom.google.com/u/1',
+					link: 'https://classroom.google.com/u/1/',
 				},
 				{
 					name: 'Meet',
